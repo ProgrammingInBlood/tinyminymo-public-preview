@@ -23,7 +23,7 @@ export default function TermsPage() {
           <div className="bg-white rounded-lg border border-gray-200 p-6">
             <h2 className="text-xl font-bold text-gray-900 mb-4">1. Acceptance of Terms</h2>
             <p className="text-gray-600">
-              By accessing and using TinyMinyMo's website and services, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.
+              By accessing and using TinyMinyMo&apos;s website and services, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.
             </p>
           </div>
 

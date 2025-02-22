@@ -93,7 +93,7 @@ export default function CareersPage() {
             Join Our Team
           </h1>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            We're building the future of cute and kawaii e-commerce in India. Join us in our mission to bring joy and happiness through our products.
+            We&apos;re building the future of cute and kawaii e-commerce in India. Join us in our mission to bring joy and happiness through our products.
           </p>
         </motion.div>
 
